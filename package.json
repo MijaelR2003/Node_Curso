@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.3"
+  },
+  "name": "node_curso",
+  "version": "0.0.1",
+  "description": "Esto es de un curso de NodeJs",
+  "main": "Creando_Servidor.js",
+  "scripts": {
+    "start": "node Creando_Servidor.js",
+    "archivos": "node Crear_Archivos.js",
+    "modulos": "node Modulos.js",
+    "funcionesos": "node Funciones_OS.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MijaelR2003/Node_Curso.git"
+  },
+  "keywords": [
+    "NodeJs",
+    "Curso",
+    "español"
+  ],
+  "author": "Mijael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MijaelR2003/Node_Curso/issues"
+  },
+  "homepage": "https://github.com/MijaelR2003/Node_Curso#readme"
+}
